@@ -1,0 +1,6 @@
+{
+  "name": "Praveen Sahani - Personal Digital Identity",
+  "description": "Official personal website and digital identity of Praveen Sahani. Connect on social media, explore business links, and view verified digital presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

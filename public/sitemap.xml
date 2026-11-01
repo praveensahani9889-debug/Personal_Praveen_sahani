@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://praveensahani.netlify.app/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://praveensahani.netlify.app/images/profile-photo.jpg</image:loc>
+      <image:title>Praveen Sahani Profile Photo</image:title>
+      <image:caption>Official profile photograph of Praveen Sahani</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://praveensahani.netlify.app/images/og-image.jpg</image:loc>
+      <image:title>Praveen Sahani Social Share Card</image:title>
+      <image:caption>Verified Personal Digital Identity preview card</image:caption>
+    </image:image>
+  </url>
+</urlset>
